@@ -39,16 +39,16 @@
     "grunt-conventional-github-releaser": "^1.0.0",
     "grunt-eslint": "^18.1.0",
     "grunt-npm": "0.0.2",
-    "karma": "^1.0.0",
-    "karma-chrome-launcher": "^1.0.0",
-    "karma-firefox-launcher": "^1.0.0",
-    "karma-mocha": "1.x || ^0.2.0",
+    "karma": "^1.7.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-firefox-launcher": "^1.1.0",
+    "karma-mocha": "1.x",
     "load-grunt-tasks": "^3.2.0",
     "mocha": "^2.4.5"
   },
   "peerDependencies": {
     "grunt": ">=0.4.x || ^1.0.0",
-    "karma": "^0.13.0 || ^1.0.0"
+    "karma": "^0.13.0 || ^1.7.0"
   },
   "contributors": [
     "Dave Geddes <davidcgeddes@gmail.com>",
