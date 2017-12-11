@@ -1,6 +1,6 @@
 {
   "name": "grunt-karma",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "grunt plugin for karma test runner",
   "main": "tasks/grunt-karma.js",
   "repository": {
